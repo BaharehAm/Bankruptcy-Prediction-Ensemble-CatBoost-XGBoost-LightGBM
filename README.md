@@ -12,13 +12,14 @@ https://archive.ics.uci.edu/dataset/365/polish+companies+bankruptcy+data
 ### **The overal diagram of the ensemble model:**
 
 
-![exsy13599-fig-0001-m](https://github.com/user-attachments/assets/f1cf3ad3-1b76-41b0-8477-4ad04dfe4fd1)
+![exsy13599-fig-0001-m (1)](https://github.com/user-attachments/assets/39ad2f5d-6af6-425f-b615-0d9cb496e319)
+
 
 
 <img width="367" alt="Screenshot 2024-07-23 at 10 14 03 PM" src="https://github.com/user-attachments/assets/1b569cd3-e3b8-4a0c-a507-9c24b2c0241d">
 
 
-### **Results obtained on the original data with no oversampling:**
+### **AUC values obtained on the original data with no oversampling:**
 
 <img width="479" alt="Screenshot 2024-07-23 at 10 11 03 PM" src="https://github.com/user-attachments/assets/43ab0efb-fb32-4bea-9c11-4495303a3491">
 
